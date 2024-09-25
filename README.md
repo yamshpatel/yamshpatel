@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yamshpatel
+- 👀 I’m interested in Computer Science, Data Science, and Blockchain technology
+- 🌱 I’m currently learning Java, Solidity, JavaScript
+- 💞️ I’m looking to collaborate on making apps, websites, and crypto projects.
+- 📫 How to reach me: www.linkedin.com/in/shyampatelcs
